@@ -1,0 +1,6 @@
+{
+  "name": "E-Supervisi Guru - Sistem Monitoring & Evaluasi Akademik",
+  "description": "Aplikasi E-Supervisi Guru dan Sistem Monitoring Akademik Sekolah (SMKN 1 Menggala) mencakup rubrik observasi 8 indikator kinerja, monitoring 5 minggu, rekapitulasi, dan cetak berita acara resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
